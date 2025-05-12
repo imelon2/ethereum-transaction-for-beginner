@@ -23,8 +23,7 @@
 
 
 # Table of Contents
-- [Intro: What is transaction](./src/intro/docs/eip2718.md)
-- Deep dive into Legacy Transaction (@TODO)
+- [Intro: Etheruem transaction EIP-2718](./src/intro/docs/eip2718.md)
 - Deep dive into Access List Transaction (@TODO)
 - Deep dive into Gas Fee Market Transaction (@TODO)
 - Deep dive into Blob Carrying Transaction (@TODO)
